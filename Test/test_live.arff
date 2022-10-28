@@ -1,0 +1,12 @@
+@relation F__Spam_Mails
+
+@attribute text string
+@attribute @@class@@ {ham,spam}
+
+@data
+
+'Try 5 pairs of glasses at home for free',?
+'Welcome to Our iPhone 14 Pro Survey Zone!',?
+'ADT Security Alarms For Home & Business - Its Worth It!',?
+'Reset your Academia.edu password',?
+'Raihan Alfansyah is now following you on Academia.edu',?
