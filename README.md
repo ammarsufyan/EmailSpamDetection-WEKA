@@ -18,7 +18,7 @@ Algoritma J48 adalah sebuah algoritma turunan dari C4.5. Algoritma ini menghasil
 Naive Bayes adalah algoritma machine learning yang sering digunakan dalam masalah klasifikasi teks. Naive Bayes didasarkan pada teorema Bayes. Algoritma Naive Bayes disebut "naif" karena membuat asumsi bahwa kemunculan fitur tertentu tidak tergantung pada kemunculan fitur lainnya. Salah satu model dari Naïve Bayes yang sering digunakan dalam klasifikasi teks adalah multinomial Naive Bayes. Multinomial Naive Bayes merupakan metode supervised learning sehingga setiap data perlu diberikan label sebelum dilakukan training. Pada penelitian kali ini, kami menggunakan Naive Bayes Multinomial Text.<br>
 
 <h2>Kesimpulan</h2>
-Algoritma Naïve Bayes lebih baik daripada J48 dalam kasus klasifikasi dan prediksi email spam. Naïve bayes memiliki waktu yang lebih cepat dalam melakukan pemodelan dibandingkan J48. Terlihat pada gambar di atas hasil prediksi Naïve Bayes lebih akurat daripada J48 dengan 20 email yang berhasil diklasifikasi dengan benar, sedangkan J48 hanya mengklasifikasi 17 email dengan benar.<br>
+Algoritma Naïve Bayes lebih baik daripada J48 dalam kasus klasifikasi dan prediksi email spam. Naïve bayes memiliki waktu yang lebih cepat dalam melakukan pemodelan dibandingkan J48. Terlihat pada gambar di atas hasil prediksi Naïve Bayes lebih akurat daripada J48 dengan 20 email yang berhasil diklasifikasi dengan benar, sedangkan J48 hanya mengklasifikasi 17 email dengan benar.<br><br>
 
 ![image](https://user-images.githubusercontent.com/63483228/198871508-d4e2d226-2be8-43fe-b6b4-1c02b7b595d3.png)
 
