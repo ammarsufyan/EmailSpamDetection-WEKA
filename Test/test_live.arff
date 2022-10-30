@@ -1,12 +1,48 @@
-@relation F__Spam_Mails
+@relation Spam_Ham_Emails
 
 @attribute text string
 @attribute @@class@@ {ham,spam}
 
 @data
 
-'Try 5 pairs of glasses at home for free',?
-'Welcome to Our iPhone 14 Pro Survey Zone!',?
-'ADT Security Alarms For Home & Business - Its Worth It!',?
-'Reset your Academia.edu password',?
-'Raihan Alfansyah is now following you on Academia.edu',?
+'Try 5 pairs of glasses at home for free',spam
+'Welcome to Our iPhone 14 Pro Survey Zone!',spam
+'ADT Security Alarms For Home & Business - Its Worth It!',spam
+'Reset your Academia.edu password',ham
+'Raihan Alfansyah is now following you on Academia.edu',ham
+'Your Epic Games Receipt F2210281914539376',ham
+'NVIDIA password was changed.',ham
+'New Device Logged In From Firefox Extension',ham
+'My Time at Sandrock from your Steam wishlist is now on sale!',ham
+'Xbox Game Pass Ultimate has been updated to recurring billing',ham
+'Follow us for the latest Humble news and deals',ham
+'STAR OCEAN THE DIVINE FORCE is now available on Steam!',ham
+'Now that you have got a Firefox account, lets get you set up',ham
+'Microsoft Azure Virtual Training Day: Fundamentals',ham
+'NEW from the VideoScribe team',spam
+'25% OFF Its our holly jolly festive sale, dadang!',spam
+'Invitation: Session 4: AI-ML- Java @ Tue Oct 11, 2022 8:15am - 10:15am (WIB) (fauzan.antoro20@mhs.uinjkt.ac.id)',ham
+'Asean Cloud Connect 2021 The leading innovation and tech event of the year',ham
+'[reddit] your email address has been changed',ham
+'Please Respond For More Directives',spam
+'I have some important information concerning your payment.',spam
+'Meet Humble Games - publishing games the Humble way.',ham
+'50% off Pro through October 31',spam
+'Your exclusive discount: Q3V66405753064655B',spam
+'If NATO got involved in the war, and it was non-nuclear, what would happen?',ham
+'Riot Games password change request',ham
+'Bethesda.net Password Successfully Reset',ham
+'New device login reminder',ham
+'NEO: The World Ends with You is now available on Steam!',ham
+'Wahyudi Paino is following you on SoundCloud',ham
+'Classic & Wearable Eyewear from Gucci',ham
+'HitmanPro trial activated, get 15% discount on your purchase',spam
+'Last chance for 50% off',spam
+'Exclusive Offer and game as a GIFT',spam
+'Apply to playtest the latest Guild of Guardians Demo',ham
+'Important Information About Heroku Free Products',ham
+'Dont Escape this weeks hot new games!',spam
+'Win iPhone 6! Join Now!',spam
+'Massive bonus this weekend, dont miss out!',spam
+'Firefox Monitor found your info in these breaches',ham
+'Introducing Proton VPN Stealth protocol',ham
