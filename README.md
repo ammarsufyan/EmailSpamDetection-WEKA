@@ -19,5 +19,5 @@ Naive Bayes adalah algoritma machine learning yang sering digunakan dalam masala
 
 <h2>Kesimpulan</h2>
 Algoritma Naïve Bayes lebih baik daripada J48 dalam kasus klasifikasi dan prediksi email spam. Naïve bayes memiliki waktu yang lebih cepat dalam melakukan pemodelan dibandingkan J48. Terlihat pada gambar di atas hasil prediksi Naïve Bayes lebih akurat daripada J48 dengan 20 email yang berhasil diklasifikasi dengan benar, sedangkan J48 hanya mengklasifikasi 17 email dengan benar.<br>
-![Untitled1_001](https://user-images.githubusercontent.com/63483228/198871459-d4e5b6b5-87f1-440e-a88b-83bed51eb9d7.png)
-![Untitled1_002](https://user-images.githubusercontent.com/63483228/198871461-799c7dcc-3c3b-49b6-8553-c5f9a52528c5.png)
+![image](https://user-images.githubusercontent.com/63483228/198871459-d4e5b6b5-87f1-440e-a88b-83bed51eb9d7.png)
+![image](https://user-images.githubusercontent.com/63483228/198871461-799c7dcc-3c3b-49b6-8553-c5f9a52528c5.png)
