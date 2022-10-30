@@ -4,7 +4,7 @@
 Setiap hari pengguna email menerima ratusan spam dari alamat baru yang secara otomatis dihasilkan oleh robot pengirim email. Untuk menyaring spam dengan metode tradisional, seperti whitelist hampir tidak mungkin. Penerapan metode text mining pada email dapat meningkatkan efisiensi penyaringan spam.
 
 <h2>Tujuan Penelitian</h2>
-Untuk memeriksa bahwa email yang diterima adalah spam atau ham melalui klasifikasi teks di WEKA menggunakan algoritma J48 Decision Tree dan Naive Bayes Multinomial Text. Email spam adalah email yang kita inginkan untuk diterima, sedangkan email ham adalah email yang tidak kita inginkan untuk diterima.
+Untuk memeriksa bahwa email yang diterima adalah spam atau ham melalui klasifikasi teks di WEKA menggunakan algoritma J48 Decision Tree dan Naive Bayes Multinomial Text. Setelah itu, dilakukan perbandingan algoritma dengan parameter tertentu untuk menentukan algoritma yang terbaik dalam melakukan klasifikasi dan prediksi email spam.
 
 <h2>Dataset</h2>
 
